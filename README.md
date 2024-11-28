@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFF"/>&nbsp<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFF"/>&nbsp<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFF"/> 
 </div>
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{jihyun0311}?pet-id=1" width="1000" height="120"/>
-</a>
 <br>
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <a href="https://www.notion.so/1-141238a80acd80f8805afaa6b52d5df0"><img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" /></a>&nbsp
+  <a href="https://github.com/jihyun0311"><img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp<a href="https://www.notion.so/1-141238a80acd80f8805afaa6b52d5df0"><img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" /></a>&nbsp
 </div>
+<br>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{jihyun0311}?pet-id=1" width="1000" height="120"/>
+</a>
