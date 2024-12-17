@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 <br>
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
-  <a href="https://github.com/jihyun0311"><img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp
+  <a href="https://github.com/jihyun0311"><img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp<a href="https://www.notion.so/1-141238a80acd80f8805afaa6b52d5df0"><img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" /></a>&nbsp
+
 </div>
 <br><br><br>
 <a href="https://github.com/devxb/gitanimals">
