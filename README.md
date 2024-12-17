@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihyun0311&show_icons=true&theme=buefy)-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihyun0311&show_icons=true&theme=buefy&hide=stars,issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyun0311&layout=compact&theme=buefy)
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openJDK&logoColor=white">&nbsp<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">&nbsp<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
