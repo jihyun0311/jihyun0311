@@ -42,6 +42,12 @@ Here are some ideas to get you started:
  <a href="mailto:dsaghjff@naver.com"><img src="https://img.shields.io/badge/mail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/></a>
 </div>
 <br><br><br>
+
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{jihyun0311}?pet-id=1" width="1000" height="120"/>
+  <img
+    src="https://render.gitanimals.org/lines/jihyun0311?pet-id=656807557944957926"
+    width="600"
+    height="120"
+  />
 </a>
+  
