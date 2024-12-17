@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
- <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
-출처: https://min-0.tistory.com/entry/Git-Github-Profile-깃허브-꾸미기-줄여서-깃꾸-ㅋㅋ [min-0's  Growth Diary:티스토리]
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openJDK&logoColor=white">&nbsp<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">&nbsp<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 </div>
 <div align="center">
