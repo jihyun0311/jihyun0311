@@ -43,11 +43,12 @@ Here are some ideas to get you started:
 </div>
 <br><br><br>
 
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/jihyun0311?pet-id=656807557944957926"
-    width="600"
-    height="120"
-  />
-</a>
-  
+<div align="center">
+ <a href="https://github.com/devxb/gitanimals">
+ <img
+  src="https://render.gitanimals.org/farms/jihyun0311"
+  width="3000"
+  height="350"
+ />
+ </a>
+</div>
