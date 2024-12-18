@@ -1,4 +1,4 @@
-안뇽 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px" style="display:inline-block;">
+안뇽 👋
 
 
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=Eclipse&logoColor=white" />&nbsp<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /><br>
- <img src="https://img.shields.io/badge/apache tomcat-FAD97F?style=for-the-badge&logo=apachetomcat&logoColor=black">
+ <img src="https://img.shields.io/badge/apache tomcat-FAD97F?style=for-the-badge&logo=apachetomcat&logoColor=black">&nbsp<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 <br>
 <h3 align="center">🎨Portfolio 🎨</h3>
