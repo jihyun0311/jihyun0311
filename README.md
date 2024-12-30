@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <h3 align="center">🎨Portfolio 🎨</h3>
 <div align="center">
  <a href="https://github.com/jihyun0311"><img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp<a href="https://www.notion.so/1-141238a80acd80f8805afaa6b52d5df0"><img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" /></a><br>
- <a href="mailto:dsaghjff@naver.com"><img src="https://img.shields.io/badge/mail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/></a>&nbsp<a href="https://www.notion.so/141238a80acd8061b224f509f89497af"><img src="https://img.shields.io/badge/study-3A8DDA.svg?style=for-the-badge&logo=livejournal&logoColor=white" /></a>
+ <a href="mailto:dsaghjff@naver.com"><img src="https://img.shields.io/badge/mail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/></a>&nbsp<a href="https://indigo-grape-646.notion.site/141238a80acd8061b224f509f89497af?pvs=4"><img src="https://img.shields.io/badge/study-3A8DDA.svg?style=for-the-badge&logo=livejournal&logoColor=white" /></a>
 </div>
 <br><br><br>
 
